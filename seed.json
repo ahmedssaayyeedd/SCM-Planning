@@ -1,0 +1,3353 @@
+{
+ "factories": [
+  {
+   "id": "FAC-001",
+   "name": "Averroes Pharma for Pharmaceutical Industries, Egypt",
+   "short_name": "Averroes Pharma",
+   "country": "Egypt",
+   "region": "Cairo",
+   "status": "Active",
+   "production_lines": "Tablets & liquids",
+   "approved_forms": "Tablets, Syrup",
+   "contract_start": "2024-01-01",
+   "contract_end": "2027-12-31",
+   "lead_time_days": null,
+   "rating": null
+  },
+  {
+   "id": "FAC-002",
+   "name": "Egyptian Group for Pharmaceutical Industries (EGPI), Egypt",
+   "short_name": "EGPI",
+   "country": "Egypt",
+   "region": "Giza",
+   "status": "Active",
+   "production_lines": "Tablets",
+   "approved_forms": "Tablets",
+   "contract_start": "2024-01-01",
+   "contract_end": "2027-12-31",
+   "lead_time_days": null,
+   "rating": null
+  },
+  {
+   "id": "FAC-003",
+   "name": "High Performance Pharma (HP Pharma), Egypt",
+   "short_name": "HP Pharma",
+   "country": "Egypt",
+   "region": "Alexandria",
+   "status": "Active",
+   "production_lines": "Tablets",
+   "approved_forms": "Tablets",
+   "contract_start": "2024-01-01",
+   "contract_end": "2027-12-31",
+   "lead_time_days": null,
+   "rating": null
+  },
+  {
+   "id": "FAC-004",
+   "name": "International Advanced Pharmaceutical Industries (INAD Pharma), Egypt",
+   "short_name": "INAD Pharma",
+   "country": "Egypt",
+   "region": "Cairo",
+   "status": "Active",
+   "production_lines": "Tablets & injectables",
+   "approved_forms": "Tablets, Ampoules",
+   "contract_start": "2024-01-01",
+   "contract_end": "2027-12-31",
+   "lead_time_days": null,
+   "rating": null
+  },
+  {
+   "id": "FAC-005",
+   "name": "The Arab Drug Company for Pharmaceuticals and Chemical Industries (ADCO), Egypt",
+   "short_name": "ADCO",
+   "country": "Egypt",
+   "region": "Cairo",
+   "status": "Active",
+   "production_lines": "Semi-solids & liquids",
+   "approved_forms": "Cream, Suspension, Spray",
+   "contract_start": "2024-01-01",
+   "contract_end": "2027-12-31",
+   "lead_time_days": null,
+   "rating": null
+  },
+  {
+   "id": "FAC-006",
+   "name": "Medizen Pharmaceutical Industries, Egypt",
+   "short_name": "Medizen",
+   "country": "Egypt",
+   "region": null,
+   "status": "Active",
+   "production_lines": null,
+   "approved_forms": "Vaginal Ovules",
+   "contract_start": null,
+   "contract_end": null,
+   "lead_time_days": null,
+   "rating": null
+  }
+ ],
+ "suppliers": [
+  {
+   "id": "SUP-001",
+   "name": "Bhagat Aromatics Limited",
+   "country": "India",
+   "type": "API manufacturer",
+   "local_imported": "Imported",
+   "status": "Active",
+   "lead_time_days": null
+  },
+  {
+   "id": "SUP-002",
+   "name": "Curia France S.A.S.",
+   "country": "France",
+   "type": "API manufacturer",
+   "local_imported": "Imported",
+   "status": "Active",
+   "lead_time_days": null
+  },
+  {
+   "id": "SUP-003",
+   "name": "IL-Yang Pharm. Co. Ltd",
+   "country": "Korea",
+   "type": "API manufacturer",
+   "local_imported": "Imported",
+   "status": "Active",
+   "lead_time_days": null
+  },
+  {
+   "id": "SUP-004",
+   "name": "Laboratoires Bailleul International",
+   "country": "Switzerland",
+   "type": "API manufacturer",
+   "local_imported": "Imported",
+   "status": "Active",
+   "lead_time_days": null
+  },
+  {
+   "id": "SUP-005",
+   "name": "MEHA Chemicals",
+   "country": "India",
+   "type": "API manufacturer",
+   "local_imported": "Imported",
+   "status": "Active",
+   "lead_time_days": null
+  },
+  {
+   "id": "SUP-006",
+   "name": "Malladi Drugs & Pharmaceuticals Ltd",
+   "country": "India",
+   "type": "API manufacturer",
+   "local_imported": "Imported",
+   "status": "Active",
+   "lead_time_days": null
+  },
+  {
+   "id": "SUP-007",
+   "name": "Morepen Laboratories Ltd",
+   "country": "India",
+   "type": "API manufacturer",
+   "local_imported": "Imported",
+   "status": "Active",
+   "lead_time_days": null
+  },
+  {
+   "id": "SUP-008",
+   "name": "Oriental Aromatics Ltd",
+   "country": "India",
+   "type": "API manufacturer",
+   "local_imported": "Imported",
+   "status": "Active",
+   "lead_time_days": null
+  },
+  {
+   "id": "SUP-009",
+   "name": "Precise Chemipharma Pvt. Ltd",
+   "country": "India",
+   "type": "API manufacturer",
+   "local_imported": "Imported",
+   "status": "Active",
+   "lead_time_days": null
+  },
+  {
+   "id": "SUP-010",
+   "name": "Shandong Hongjitang Pharmaceutical Group Co., Ltd",
+   "country": "China",
+   "type": "API manufacturer",
+   "local_imported": "Imported",
+   "status": "Active",
+   "lead_time_days": null
+  },
+  {
+   "id": "SUP-011",
+   "name": "Sichuan Province Yuxin Pharmaceutical Co., Ltd",
+   "country": "China",
+   "type": "API manufacturer",
+   "local_imported": "Imported",
+   "status": "Active",
+   "lead_time_days": null
+  },
+  {
+   "id": "SUP-012",
+   "name": "Siddhivinayak Chemicals",
+   "country": "India",
+   "type": "API manufacturer",
+   "local_imported": "Imported",
+   "status": "Active",
+   "lead_time_days": null
+  },
+  {
+   "id": "SUP-013",
+   "name": "Teva API (India) Private Limited",
+   "country": "India",
+   "type": "API manufacturer",
+   "local_imported": "Imported",
+   "status": "Active",
+   "lead_time_days": null
+  },
+  {
+   "id": "SUP-014",
+   "name": "yuab pharma a.s.",
+   "country": "Czech Republic",
+   "type": "API",
+   "local_imported": "Imported",
+   "status": "Active",
+   "lead_time_days": null
+  },
+  {
+   "id": "SUP-015",
+   "name": "Chongqing Southwest No.2 Pharmaceutical Factory Co. Ltd",
+   "country": "India",
+   "type": "API",
+   "local_imported": "Imported",
+   "status": "Active",
+   "lead_time_days": null
+  }
+ ],
+ "items": [
+  {
+   "id": "ITEM-001",
+   "name": "Clopirastine Fendizoate (micronized D90 ≤ 50µm)",
+   "item_type": "API",
+   "uom": "mg",
+   "std_cost": 0.008,
+   "supplier_id": "SUP-009",
+   "status": "Active",
+   "price_per_kg": 8000.0,
+   "stock_kg": null
+  },
+  {
+   "id": "ITEM-002",
+   "name": "Mannitol",
+   "item_type": "Excipient",
+   "uom": "mg",
+   "std_cost": 0.0005,
+   "supplier_id": null,
+   "status": "Active",
+   "price_per_kg": 500.00000000000006,
+   "stock_kg": 80.0
+  },
+  {
+   "id": "ITEM-003",
+   "name": "Microcrystalline Cellulose, Avicel PH 101",
+   "item_type": "Excipient",
+   "uom": "mg",
+   "std_cost": 0.0006,
+   "supplier_id": null,
+   "status": "Active",
+   "price_per_kg": 600.0,
+   "stock_kg": null
+  },
+  {
+   "id": "ITEM-004",
+   "name": "Pregelatinized Starch, Starch 1500",
+   "item_type": "Excipient",
+   "uom": "mg",
+   "std_cost": 0.0007,
+   "supplier_id": null,
+   "status": "Active",
+   "price_per_kg": 700.0,
+   "stock_kg": null
+  },
+  {
+   "id": "ITEM-005",
+   "name": "Hydroxypropyl Methylcellulose E5",
+   "item_type": "Excipient",
+   "uom": "mg",
+   "std_cost": 0.0004,
+   "supplier_id": null,
+   "status": "Active",
+   "price_per_kg": 400.00000000000006,
+   "stock_kg": null
+  },
+  {
+   "id": "ITEM-006",
+   "name": "Citric Acid Anhydrous",
+   "item_type": "Excipient",
+   "uom": "mg",
+   "std_cost": 0.0005,
+   "supplier_id": null,
+   "status": "Active",
+   "price_per_kg": 500.00000000000006,
+   "stock_kg": null
+  },
+  {
+   "id": "ITEM-007",
+   "name": "Magnesium Stearate",
+   "item_type": "Excipient",
+   "uom": "mg",
+   "std_cost": 0.0006,
+   "supplier_id": null,
+   "status": "Active",
+   "price_per_kg": 600.0,
+   "stock_kg": 0.5
+  },
+  {
+   "id": "ITEM-008",
+   "name": "Sucralose",
+   "item_type": "Excipient",
+   "uom": "mg",
+   "std_cost": 0.0007,
+   "supplier_id": null,
+   "status": "Active",
+   "price_per_kg": 700.0,
+   "stock_kg": null
+  },
+  {
+   "id": "ITEM-009",
+   "name": "Strawberry Flavor",
+   "item_type": "Excipient",
+   "uom": "mg",
+   "std_cost": 0.0004,
+   "supplier_id": null,
+   "status": "Active",
+   "price_per_kg": 400.00000000000006,
+   "stock_kg": null
+  },
+  {
+   "id": "ITEM-010",
+   "name": "PVC blister film — Calmiperastine 4.4 mg",
+   "item_type": "Packaging",
+   "uom": "pcs",
+   "std_cost": 0.075,
+   "supplier_id": null,
+   "status": "Active",
+   "price_per_kg": 0.075,
+   "stock_kg": 5.0
+  },
+  {
+   "id": "ITEM-011",
+   "name": "Aluminium blister foil — Calmiperastine 4.4 mg",
+   "item_type": "Packaging",
+   "uom": "pcs",
+   "std_cost": 0.09,
+   "supplier_id": null,
+   "status": "Active",
+   "price_per_kg": 0.09,
+   "stock_kg": 3.0
+  },
+  {
+   "id": "ITEM-012",
+   "name": "Insert leaflet — Calmiperastine 4.4 mg",
+   "item_type": "Packaging",
+   "uom": "pcs",
+   "std_cost": 0.105,
+   "supplier_id": null,
+   "status": "Active",
+   "price_per_kg": 0.105,
+   "stock_kg": null
+  },
+  {
+   "id": "ITEM-013",
+   "name": "Carton box — Calmiperastine 4.4 mg",
+   "item_type": "Packaging",
+   "uom": "pcs",
+   "std_cost": 0.06,
+   "supplier_id": null,
+   "status": "Active",
+   "price_per_kg": 0.06,
+   "stock_kg": 60.0
+  },
+  {
+   "id": "ITEM-014",
+   "name": "Baloxavir Marboxil",
+   "item_type": "API",
+   "uom": "mg",
+   "std_cost": 0.01,
+   "supplier_id": "SUP-012",
+   "status": "Active",
+   "price_per_kg": 10000.0,
+   "stock_kg": null
+  },
+  {
+   "id": "ITEM-015",
+   "name": "Lactose Monohydrate",
+   "item_type": "Excipient",
+   "uom": "mg",
+   "std_cost": 0.0006,
+   "supplier_id": null,
+   "status": "Active",
+   "price_per_kg": 600.0,
+   "stock_kg": null
+  },
+  {
+   "id": "ITEM-016",
+   "name": "Microcrystalline Cellulose PH112",
+   "item_type": "Excipient",
+   "uom": "mg",
+   "std_cost": 0.0007,
+   "supplier_id": null,
+   "status": "Active",
+   "price_per_kg": 700.0,
+   "stock_kg": null
+  },
+  {
+   "id": "ITEM-017",
+   "name": "Povidone (Polyvinyl pyrrolidone K25)",
+   "item_type": "Excipient",
+   "uom": "mg",
+   "std_cost": 0.0004,
+   "supplier_id": null,
+   "status": "Active",
+   "price_per_kg": 400.00000000000006,
+   "stock_kg": null
+  },
+  {
+   "id": "ITEM-018",
+   "name": "Croscarmellose Sodium",
+   "item_type": "Excipient",
+   "uom": "mg",
+   "std_cost": 0.0005,
+   "supplier_id": null,
+   "status": "Active",
+   "price_per_kg": 500.00000000000006,
+   "stock_kg": null
+  },
+  {
+   "id": "ITEM-019",
+   "name": "Sodium Stearyl Fumarate",
+   "item_type": "Excipient",
+   "uom": "mg",
+   "std_cost": 0.0006,
+   "supplier_id": null,
+   "status": "Active",
+   "price_per_kg": 600.0,
+   "stock_kg": null
+  },
+  {
+   "id": "ITEM-020",
+   "name": "Ethyl Alcohol 95-96%",
+   "item_type": "Excipient",
+   "uom": "mg",
+   "std_cost": 0.0007,
+   "supplier_id": null,
+   "status": "Active",
+   "price_per_kg": 700.0,
+   "stock_kg": null
+  },
+  {
+   "id": "ITEM-021",
+   "name": "Water, Purified",
+   "item_type": "Excipient",
+   "uom": "mg",
+   "std_cost": 0.0004,
+   "supplier_id": null,
+   "status": "Active",
+   "price_per_kg": 400.00000000000006,
+   "stock_kg": null
+  },
+  {
+   "id": "ITEM-022",
+   "name": "Titanium Dioxide (C.I.N 77891)",
+   "item_type": "Excipient",
+   "uom": "mg",
+   "std_cost": 0.0005,
+   "supplier_id": null,
+   "status": "Active",
+   "price_per_kg": 500.00000000000006,
+   "stock_kg": null
+  },
+  {
+   "id": "ITEM-023",
+   "name": "Talc, Purified",
+   "item_type": "Excipient",
+   "uom": "mg",
+   "std_cost": 0.0006,
+   "supplier_id": null,
+   "status": "Active",
+   "price_per_kg": 600.0,
+   "stock_kg": null
+  },
+  {
+   "id": "ITEM-024",
+   "name": "Cholecalciferol crystalline 40 MIU/g",
+   "item_type": "API",
+   "uom": "mg",
+   "std_cost": 0.014,
+   "supplier_id": "SUP-011",
+   "status": "Active",
+   "price_per_kg": 14000.0,
+   "stock_kg": null
+  },
+  {
+   "id": "ITEM-025",
+   "name": "Butylated Hydroxytoluene",
+   "item_type": "Excipient",
+   "uom": "mg",
+   "std_cost": 0.0004,
+   "supplier_id": null,
+   "status": "Active",
+   "price_per_kg": 400.00000000000006,
+   "stock_kg": null
+  },
+  {
+   "id": "ITEM-026",
+   "name": "d.l-alpha-Tocopherol Acetate",
+   "item_type": "Excipient",
+   "uom": "mg",
+   "std_cost": 0.0005,
+   "supplier_id": null,
+   "status": "Active",
+   "price_per_kg": 500.00000000000006,
+   "stock_kg": null
+  },
+  {
+   "id": "ITEM-027",
+   "name": "Olive Oil (refined), Ad. to 1.0 mL",
+   "item_type": "Excipient",
+   "uom": "mg",
+   "std_cost": 0.0006,
+   "supplier_id": null,
+   "status": "Active",
+   "price_per_kg": 600.0,
+   "stock_kg": null
+  },
+  {
+   "id": "ITEM-028",
+   "name": "Nitrogen gas (Grade 99.9)",
+   "item_type": "Excipient",
+   "uom": "mg",
+   "std_cost": 0.0007,
+   "supplier_id": null,
+   "status": "Active",
+   "price_per_kg": 700.0,
+   "stock_kg": null
+  },
+  {
+   "id": "ITEM-029",
+   "name": "Amber glass ampoule (Type I), 1 mL — Megacalciferol 100000 I.U",
+   "item_type": "Packaging",
+   "uom": "pcs",
+   "std_cost": 0.06,
+   "supplier_id": null,
+   "status": "Active",
+   "price_per_kg": 0.06,
+   "stock_kg": null
+  },
+  {
+   "id": "ITEM-030",
+   "name": "Pseudoephedrine Sulphate",
+   "item_type": "API",
+   "uom": "mg",
+   "std_cost": 0.01,
+   "supplier_id": "SUP-006",
+   "status": "Active",
+   "price_per_kg": 10000.0,
+   "stock_kg": null
+  },
+  {
+   "id": "ITEM-031",
+   "name": "Ethyl Cellulose (Ethocel STD.7 Premium)",
+   "item_type": "Excipient",
+   "uom": "mg",
+   "std_cost": 0.0006,
+   "supplier_id": null,
+   "status": "Active",
+   "price_per_kg": 600.0,
+   "stock_kg": null
+  },
+  {
+   "id": "ITEM-032",
+   "name": "Hypromellose (Methocel K100M CR Premium)",
+   "item_type": "Excipient",
+   "uom": "mg",
+   "std_cost": 0.0007,
+   "supplier_id": null,
+   "status": "Active",
+   "price_per_kg": 700.0,
+   "stock_kg": null
+  },
+  {
+   "id": "ITEM-033",
+   "name": "Povidone K30",
+   "item_type": "Excipient",
+   "uom": "mg",
+   "std_cost": 0.0004,
+   "supplier_id": null,
+   "status": "Active",
+   "price_per_kg": 400.00000000000006,
+   "stock_kg": null
+  },
+  {
+   "id": "ITEM-034",
+   "name": "Colloidal Silicon Dioxide 200",
+   "item_type": "Excipient",
+   "uom": "mg",
+   "std_cost": 0.0005,
+   "supplier_id": null,
+   "status": "Active",
+   "price_per_kg": 500.00000000000006,
+   "stock_kg": null
+  },
+  {
+   "id": "ITEM-035",
+   "name": "Dibasic Calcium Phosphate Dihydrate",
+   "item_type": "Excipient",
+   "uom": "mg",
+   "std_cost": 0.0006,
+   "supplier_id": null,
+   "status": "Active",
+   "price_per_kg": 600.0,
+   "stock_kg": null
+  },
+  {
+   "id": "ITEM-036",
+   "name": "Purified Water",
+   "item_type": "Excipient",
+   "uom": "mg",
+   "std_cost": 0.0007,
+   "supplier_id": null,
+   "status": "Active",
+   "price_per_kg": 700.0,
+   "stock_kg": 200.0
+  },
+  {
+   "id": "ITEM-037",
+   "name": "Ethanol 96%",
+   "item_type": "Excipient",
+   "uom": "mg",
+   "std_cost": 0.0004,
+   "supplier_id": null,
+   "status": "Active",
+   "price_per_kg": 400.00000000000006,
+   "stock_kg": null
+  },
+  {
+   "id": "ITEM-038",
+   "name": "Loratadine (Micronized)",
+   "item_type": "API",
+   "uom": "mg",
+   "std_cost": 0.01,
+   "supplier_id": "SUP-007",
+   "status": "Active",
+   "price_per_kg": 10000.0,
+   "stock_kg": null
+  },
+  {
+   "id": "ITEM-039",
+   "name": "Hypromellose E5",
+   "item_type": "Excipient",
+   "uom": "mg",
+   "std_cost": 0.0006,
+   "supplier_id": null,
+   "status": "Active",
+   "price_per_kg": 600.0,
+   "stock_kg": null
+  },
+  {
+   "id": "ITEM-040",
+   "name": "Sucrose",
+   "item_type": "Excipient",
+   "uom": "mg",
+   "std_cost": 0.0007,
+   "supplier_id": null,
+   "status": "Active",
+   "price_per_kg": 700.0,
+   "stock_kg": null
+  },
+  {
+   "id": "ITEM-041",
+   "name": "Polyethylene Glycol 6000",
+   "item_type": "Excipient",
+   "uom": "mg",
+   "std_cost": 0.0004,
+   "supplier_id": null,
+   "status": "Active",
+   "price_per_kg": 400.00000000000006,
+   "stock_kg": null
+  },
+  {
+   "id": "ITEM-042",
+   "name": "Titanium Dioxide",
+   "item_type": "Excipient",
+   "uom": "mg",
+   "std_cost": 0.0005,
+   "supplier_id": null,
+   "status": "Active",
+   "price_per_kg": 500.00000000000006,
+   "stock_kg": null
+  },
+  {
+   "id": "ITEM-043",
+   "name": "Talc",
+   "item_type": "Excipient",
+   "uom": "mg",
+   "std_cost": 0.0006,
+   "supplier_id": null,
+   "status": "Active",
+   "price_per_kg": 600.0,
+   "stock_kg": null
+  },
+  {
+   "id": "ITEM-044",
+   "name": "Simethicone 30%",
+   "item_type": "Excipient",
+   "uom": "mg",
+   "std_cost": 0.0007,
+   "supplier_id": null,
+   "status": "Active",
+   "price_per_kg": 700.0,
+   "stock_kg": null
+  },
+  {
+   "id": "ITEM-045",
+   "name": "Polysorbate 80 (Tween 80)",
+   "item_type": "Excipient",
+   "uom": "mg",
+   "std_cost": 0.0004,
+   "supplier_id": null,
+   "status": "Active",
+   "price_per_kg": 400.00000000000006,
+   "stock_kg": null
+  },
+  {
+   "id": "ITEM-046",
+   "name": "Dried Aluminium Hydroxide gel",
+   "item_type": "API",
+   "uom": "mg",
+   "std_cost": 0.01,
+   "supplier_id": "SUP-005",
+   "status": "Active",
+   "price_per_kg": 10000.0,
+   "stock_kg": null
+  },
+  {
+   "id": "ITEM-047",
+   "name": "Magnesium Hydroxide (powder)",
+   "item_type": "API",
+   "uom": "mg",
+   "std_cost": 0.012,
+   "supplier_id": "SUP-003",
+   "status": "Active",
+   "price_per_kg": 12000.0,
+   "stock_kg": null
+  },
+  {
+   "id": "ITEM-048",
+   "name": "Simethicone for DC (Normal Assay 62%, eq. to 25 mg Dimethicone)",
+   "item_type": "API",
+   "uom": "mg",
+   "std_cost": 0.014,
+   "supplier_id": "SUP-005",
+   "status": "Active",
+   "price_per_kg": 14000.0,
+   "stock_kg": null
+  },
+  {
+   "id": "ITEM-049",
+   "name": "Microcrystalline Cellulose (Avicel PH 102)",
+   "item_type": "Excipient",
+   "uom": "mg",
+   "std_cost": 0.0004,
+   "supplier_id": null,
+   "status": "Active",
+   "price_per_kg": 400.00000000000006,
+   "stock_kg": null
+  },
+  {
+   "id": "ITEM-050",
+   "name": "Dextrose Monohydrate",
+   "item_type": "Excipient",
+   "uom": "mg",
+   "std_cost": 0.0005,
+   "supplier_id": null,
+   "status": "Active",
+   "price_per_kg": 500.00000000000006,
+   "stock_kg": null
+  },
+  {
+   "id": "ITEM-051",
+   "name": "Maltodextrin",
+   "item_type": "Excipient",
+   "uom": "mg",
+   "std_cost": 0.0006,
+   "supplier_id": null,
+   "status": "Active",
+   "price_per_kg": 600.0,
+   "stock_kg": null
+  },
+  {
+   "id": "ITEM-052",
+   "name": "Colloidal Silicon Dioxide (Aerosil 200)",
+   "item_type": "Excipient",
+   "uom": "mg",
+   "std_cost": 0.0007,
+   "supplier_id": null,
+   "status": "Active",
+   "price_per_kg": 700.0,
+   "stock_kg": null
+  },
+  {
+   "id": "ITEM-053",
+   "name": "Omoconazole Nitrate (micronized, D100 ≤ 30 µm)",
+   "item_type": "API",
+   "uom": "g",
+   "std_cost": 0.008,
+   "supplier_id": "SUP-004",
+   "status": "Active",
+   "price_per_kg": 8.0,
+   "stock_kg": null
+  },
+  {
+   "id": "ITEM-054",
+   "name": "Linoleoyl Polyoxylglycerides",
+   "item_type": "Excipient",
+   "uom": "g",
+   "std_cost": 0.0005,
+   "supplier_id": null,
+   "status": "Active",
+   "price_per_kg": 0.5,
+   "stock_kg": null
+  },
+  {
+   "id": "ITEM-055",
+   "name": "Glyceryl Monostearate",
+   "item_type": "Excipient",
+   "uom": "g",
+   "std_cost": 0.0006,
+   "supplier_id": null,
+   "status": "Active",
+   "price_per_kg": 0.6,
+   "stock_kg": null
+  },
+  {
+   "id": "ITEM-056",
+   "name": "Light Liquid Paraffin",
+   "item_type": "Excipient",
+   "uom": "g",
+   "std_cost": 0.0007,
+   "supplier_id": null,
+   "status": "Active",
+   "price_per_kg": 0.7,
+   "stock_kg": null
+  },
+  {
+   "id": "ITEM-057",
+   "name": "Benzoic Acid",
+   "item_type": "Excipient",
+   "uom": "g",
+   "std_cost": 0.0004,
+   "supplier_id": null,
+   "status": "Active",
+   "price_per_kg": 0.4,
+   "stock_kg": null
+  },
+  {
+   "id": "ITEM-058",
+   "name": "Polysorbate 40",
+   "item_type": "Excipient",
+   "uom": "g",
+   "std_cost": 0.0005,
+   "supplier_id": null,
+   "status": "Active",
+   "price_per_kg": 0.5,
+   "stock_kg": null
+  },
+  {
+   "id": "ITEM-059",
+   "name": "Carbomer (Carbopol 974 P)",
+   "item_type": "Excipient",
+   "uom": "g",
+   "std_cost": 0.0006,
+   "supplier_id": null,
+   "status": "Active",
+   "price_per_kg": 0.6,
+   "stock_kg": null
+  },
+  {
+   "id": "ITEM-060",
+   "name": "Propylene Glycol",
+   "item_type": "Excipient",
+   "uom": "g",
+   "std_cost": 0.0007,
+   "supplier_id": null,
+   "status": "Active",
+   "price_per_kg": 0.7,
+   "stock_kg": null
+  },
+  {
+   "id": "ITEM-061",
+   "name": "Purified Water, Ad. to 1 gm",
+   "item_type": "Excipient",
+   "uom": "g",
+   "std_cost": 0.0004,
+   "supplier_id": null,
+   "status": "Active",
+   "price_per_kg": 0.4,
+   "stock_kg": null
+  },
+  {
+   "id": "ITEM-062",
+   "name": "Aluminium tube, 20 g — Omtenazox",
+   "item_type": "Packaging",
+   "uom": "pcs",
+   "std_cost": 0.075,
+   "supplier_id": null,
+   "status": "Active",
+   "price_per_kg": 0.075,
+   "stock_kg": null
+  },
+  {
+   "id": "ITEM-063",
+   "name": "Aluminium Hydroxide (dried aluminium hydroxide gel)",
+   "item_type": "API",
+   "uom": "g",
+   "std_cost": 0.012,
+   "supplier_id": "SUP-005",
+   "status": "Active",
+   "price_per_kg": 12.0,
+   "stock_kg": null
+  },
+  {
+   "id": "ITEM-064",
+   "name": "Magnesium Hydroxide (gel, heavy)",
+   "item_type": "API",
+   "uom": "g",
+   "std_cost": 0.014,
+   "supplier_id": "SUP-003",
+   "status": "Active",
+   "price_per_kg": 14.0,
+   "stock_kg": null
+  },
+  {
+   "id": "ITEM-065",
+   "name": "Monmectite (montmorillonite, purified bentonite)",
+   "item_type": "API",
+   "uom": "g",
+   "std_cost": 0.008,
+   "supplier_id": "SUP-010",
+   "status": "Active",
+   "price_per_kg": 8.0,
+   "stock_kg": null
+  },
+  {
+   "id": "ITEM-066",
+   "name": "Sorbitol 70% solution",
+   "item_type": "Excipient",
+   "uom": "g",
+   "std_cost": 0.0005,
+   "supplier_id": null,
+   "status": "Active",
+   "price_per_kg": 0.5,
+   "stock_kg": null
+  },
+  {
+   "id": "ITEM-067",
+   "name": "Methylparaben base",
+   "item_type": "Excipient",
+   "uom": "g",
+   "std_cost": 0.0006,
+   "supplier_id": null,
+   "status": "Active",
+   "price_per_kg": 0.6,
+   "stock_kg": null
+  },
+  {
+   "id": "ITEM-068",
+   "name": "Propylparaben base",
+   "item_type": "Excipient",
+   "uom": "g",
+   "std_cost": 0.0007,
+   "supplier_id": null,
+   "status": "Active",
+   "price_per_kg": 0.7,
+   "stock_kg": null
+  },
+  {
+   "id": "ITEM-069",
+   "name": "Ethyl Alcohol (95-96%)",
+   "item_type": "Excipient",
+   "uom": "g",
+   "std_cost": 0.0004,
+   "supplier_id": null,
+   "status": "Active",
+   "price_per_kg": 0.4,
+   "stock_kg": null
+  },
+  {
+   "id": "ITEM-070",
+   "name": "Menthol, Crystalline",
+   "item_type": "Excipient",
+   "uom": "g",
+   "std_cost": 0.0005,
+   "supplier_id": null,
+   "status": "Active",
+   "price_per_kg": 0.5,
+   "stock_kg": null
+  },
+  {
+   "id": "ITEM-071",
+   "name": "Water, Purified, Ad. to 15.8 gm",
+   "item_type": "Excipient",
+   "uom": "g",
+   "std_cost": 0.0006,
+   "supplier_id": null,
+   "status": "Active",
+   "price_per_kg": 0.6,
+   "stock_kg": null
+  },
+  {
+   "id": "ITEM-072",
+   "name": "Aluminium/LDPE printed sachet — Osmotalex",
+   "item_type": "Packaging",
+   "uom": "pcs",
+   "std_cost": 0.105,
+   "supplier_id": null,
+   "status": "Active",
+   "price_per_kg": 0.105,
+   "stock_kg": null
+  },
+  {
+   "id": "ITEM-073",
+   "name": "Camphor",
+   "item_type": "API",
+   "uom": "mg",
+   "std_cost": 0.008,
+   "supplier_id": "SUP-008",
+   "status": "Active",
+   "price_per_kg": 8000.0,
+   "stock_kg": null
+  },
+  {
+   "id": "ITEM-074",
+   "name": "Menthol",
+   "item_type": "API",
+   "uom": "mg",
+   "std_cost": 0.01,
+   "supplier_id": "SUP-001",
+   "status": "Active",
+   "price_per_kg": 10000.0,
+   "stock_kg": null
+  },
+  {
+   "id": "ITEM-075",
+   "name": "Diethylamine Salicylate",
+   "item_type": "API",
+   "uom": "mg",
+   "std_cost": 0.012,
+   "supplier_id": "SUP-002",
+   "status": "Active",
+   "price_per_kg": 12000.0,
+   "stock_kg": null
+  },
+  {
+   "id": "ITEM-076",
+   "name": "Isopropyl Alcohol",
+   "item_type": "Excipient",
+   "uom": "mg",
+   "std_cost": 0.0007,
+   "supplier_id": null,
+   "status": "Active",
+   "price_per_kg": 700.0,
+   "stock_kg": null
+  },
+  {
+   "id": "ITEM-077",
+   "name": "Ethyl Alcohol 96%",
+   "item_type": "Excipient",
+   "uom": "mg",
+   "std_cost": 0.0004,
+   "supplier_id": null,
+   "status": "Active",
+   "price_per_kg": 400.00000000000006,
+   "stock_kg": null
+  },
+  {
+   "id": "ITEM-078",
+   "name": "Cinnamon Oil",
+   "item_type": "Excipient",
+   "uom": "mg",
+   "std_cost": 0.0005,
+   "supplier_id": null,
+   "status": "Active",
+   "price_per_kg": 500.00000000000006,
+   "stock_kg": null
+  },
+  {
+   "id": "ITEM-079",
+   "name": "HFA 134, Ad. to 130 mL",
+   "item_type": "Excipient",
+   "uom": "mg",
+   "std_cost": 0.0006,
+   "supplier_id": null,
+   "status": "Active",
+   "price_per_kg": 600.0,
+   "stock_kg": null
+  },
+  {
+   "id": "ITEM-080",
+   "name": "Aluminium canister 130 mL with valve — Salicamenthol",
+   "item_type": "Packaging",
+   "uom": "pcs",
+   "std_cost": 0.105,
+   "supplier_id": null,
+   "status": "Active",
+   "price_per_kg": 0.105,
+   "stock_kg": null
+  },
+  {
+   "id": "ITEM-081",
+   "name": "Edoxaban Tosylate Monohydrate (D90 < 20 µm, eq. to Edoxaban 30 mg)",
+   "item_type": "API",
+   "uom": "mg",
+   "std_cost": 0.008,
+   "supplier_id": "SUP-013",
+   "status": "Active",
+   "price_per_kg": 8000.0,
+   "stock_kg": null
+  },
+  {
+   "id": "ITEM-082",
+   "name": "Crospovidone",
+   "item_type": "Excipient",
+   "uom": "mg",
+   "std_cost": 0.0005,
+   "supplier_id": null,
+   "status": "Active",
+   "price_per_kg": 500.00000000000006,
+   "stock_kg": null
+  },
+  {
+   "id": "ITEM-083",
+   "name": "Mannitol powder",
+   "item_type": "Excipient",
+   "uom": "mg",
+   "std_cost": 0.0006,
+   "supplier_id": null,
+   "status": "Active",
+   "price_per_kg": 600.0,
+   "stock_kg": null
+  },
+  {
+   "id": "ITEM-084",
+   "name": "Hydroxypropyl Cellulose (HPC EXF)",
+   "item_type": "Excipient",
+   "uom": "mg",
+   "std_cost": 0.0007,
+   "supplier_id": null,
+   "status": "Active",
+   "price_per_kg": 700.0,
+   "stock_kg": null
+  },
+  {
+   "id": "ITEM-085",
+   "name": "Pregelatinized Starch (Starch 1500)",
+   "item_type": "Excipient",
+   "uom": "mg",
+   "std_cost": 0.0004,
+   "supplier_id": null,
+   "status": "Active",
+   "price_per_kg": 400.00000000000006,
+   "stock_kg": null
+  },
+  {
+   "id": "ITEM-086",
+   "name": "Titanium Dioxide (C.I. No. 77891)",
+   "item_type": "Excipient",
+   "uom": "mg",
+   "std_cost": 0.0005,
+   "supplier_id": null,
+   "status": "Active",
+   "price_per_kg": 500.00000000000006,
+   "stock_kg": null
+  },
+  {
+   "id": "ITEM-087",
+   "name": "Red Iron Oxide (C.I. No. 77491)",
+   "item_type": "Excipient",
+   "uom": "mg",
+   "std_cost": 0.0006,
+   "supplier_id": null,
+   "status": "Active",
+   "price_per_kg": 600.0,
+   "stock_kg": null
+  },
+  {
+   "id": "ITEM-088",
+   "name": "PVC blister film — Marboxavir 20 mg",
+   "item_type": "Packaging",
+   "uom": "pcs",
+   "std_cost": 0.075,
+   "supplier_id": null,
+   "status": "Active",
+   "price_per_kg": 0.075,
+   "stock_kg": null
+  },
+  {
+   "id": "ITEM-089",
+   "name": "PVC blister film — Loryzalia 240/10 mg",
+   "item_type": "Packaging",
+   "uom": "pcs",
+   "std_cost": 0.075,
+   "supplier_id": null,
+   "status": "Active",
+   "price_per_kg": 0.075,
+   "stock_kg": null
+  },
+  {
+   "id": "ITEM-090",
+   "name": "PVC blister film — Megantacid",
+   "item_type": "Packaging",
+   "uom": "pcs",
+   "std_cost": 0.075,
+   "supplier_id": null,
+   "status": "Active",
+   "price_per_kg": 0.075,
+   "stock_kg": null
+  },
+  {
+   "id": "ITEM-091",
+   "name": "PVC blister film — Thitaxaban 30 mg",
+   "item_type": "Packaging",
+   "uom": "pcs",
+   "std_cost": 0.075,
+   "supplier_id": null,
+   "status": "Active",
+   "price_per_kg": 0.075,
+   "stock_kg": null
+  },
+  {
+   "id": "ITEM-092",
+   "name": "Aluminium blister foil — Marboxavir 20 mg",
+   "item_type": "Packaging",
+   "uom": "pcs",
+   "std_cost": 0.09,
+   "supplier_id": null,
+   "status": "Active",
+   "price_per_kg": 0.09,
+   "stock_kg": null
+  },
+  {
+   "id": "ITEM-093",
+   "name": "Aluminium blister foil — Loryzalia 240/10 mg",
+   "item_type": "Packaging",
+   "uom": "pcs",
+   "std_cost": 0.09,
+   "supplier_id": null,
+   "status": "Active",
+   "price_per_kg": 0.09,
+   "stock_kg": null
+  },
+  {
+   "id": "ITEM-094",
+   "name": "Aluminium blister foil — Megantacid",
+   "item_type": "Packaging",
+   "uom": "pcs",
+   "std_cost": 0.09,
+   "supplier_id": null,
+   "status": "Active",
+   "price_per_kg": 0.09,
+   "stock_kg": null
+  },
+  {
+   "id": "ITEM-095",
+   "name": "Aluminium blister foil — Thitaxaban 30 mg",
+   "item_type": "Packaging",
+   "uom": "pcs",
+   "std_cost": 0.09,
+   "supplier_id": null,
+   "status": "Active",
+   "price_per_kg": 0.09,
+   "stock_kg": null
+  },
+  {
+   "id": "ITEM-096",
+   "name": "Insert leaflet — Marboxavir 20 mg",
+   "item_type": "Packaging",
+   "uom": "pcs",
+   "std_cost": 0.105,
+   "supplier_id": null,
+   "status": "Active",
+   "price_per_kg": 0.105,
+   "stock_kg": null
+  },
+  {
+   "id": "ITEM-097",
+   "name": "Insert leaflet — Megacalciferol 100000 I.U",
+   "item_type": "Packaging",
+   "uom": "pcs",
+   "std_cost": 0.105,
+   "supplier_id": null,
+   "status": "Active",
+   "price_per_kg": 0.105,
+   "stock_kg": null
+  },
+  {
+   "id": "ITEM-098",
+   "name": "Insert leaflet — Loryzalia 240/10 mg",
+   "item_type": "Packaging",
+   "uom": "pcs",
+   "std_cost": 0.105,
+   "supplier_id": null,
+   "status": "Active",
+   "price_per_kg": 0.105,
+   "stock_kg": null
+  },
+  {
+   "id": "ITEM-099",
+   "name": "Insert leaflet — Megacalciferol 300000 I.U",
+   "item_type": "Packaging",
+   "uom": "pcs",
+   "std_cost": 0.105,
+   "supplier_id": null,
+   "status": "Active",
+   "price_per_kg": 0.105,
+   "stock_kg": null
+  },
+  {
+   "id": "ITEM-100",
+   "name": "Insert leaflet — Megantacid",
+   "item_type": "Packaging",
+   "uom": "pcs",
+   "std_cost": 0.105,
+   "supplier_id": null,
+   "status": "Active",
+   "price_per_kg": 0.105,
+   "stock_kg": null
+  },
+  {
+   "id": "ITEM-101",
+   "name": "Insert leaflet — Omtenazox",
+   "item_type": "Packaging",
+   "uom": "pcs",
+   "std_cost": 0.105,
+   "supplier_id": null,
+   "status": "Active",
+   "price_per_kg": 0.105,
+   "stock_kg": null
+  },
+  {
+   "id": "ITEM-102",
+   "name": "Insert leaflet — Osmotalex",
+   "item_type": "Packaging",
+   "uom": "pcs",
+   "std_cost": 0.105,
+   "supplier_id": null,
+   "status": "Active",
+   "price_per_kg": 0.105,
+   "stock_kg": null
+  },
+  {
+   "id": "ITEM-103",
+   "name": "Insert leaflet — Salicamenthol",
+   "item_type": "Packaging",
+   "uom": "pcs",
+   "std_cost": 0.105,
+   "supplier_id": null,
+   "status": "Active",
+   "price_per_kg": 0.105,
+   "stock_kg": null
+  },
+  {
+   "id": "ITEM-104",
+   "name": "Insert leaflet — Thitaxaban 30 mg",
+   "item_type": "Packaging",
+   "uom": "pcs",
+   "std_cost": 0.105,
+   "supplier_id": null,
+   "status": "Active",
+   "price_per_kg": 0.105,
+   "stock_kg": null
+  },
+  {
+   "id": "ITEM-105",
+   "name": "Carton box — Marboxavir 20 mg",
+   "item_type": "Packaging",
+   "uom": "pcs",
+   "std_cost": 0.06,
+   "supplier_id": null,
+   "status": "Active",
+   "price_per_kg": 0.06,
+   "stock_kg": null
+  },
+  {
+   "id": "ITEM-106",
+   "name": "Carton box — Megacalciferol 100000 I.U",
+   "item_type": "Packaging",
+   "uom": "pcs",
+   "std_cost": 0.06,
+   "supplier_id": null,
+   "status": "Active",
+   "price_per_kg": 0.06,
+   "stock_kg": null
+  },
+  {
+   "id": "ITEM-107",
+   "name": "Carton box — Loryzalia 240/10 mg",
+   "item_type": "Packaging",
+   "uom": "pcs",
+   "std_cost": 0.06,
+   "supplier_id": null,
+   "status": "Active",
+   "price_per_kg": 0.06,
+   "stock_kg": null
+  },
+  {
+   "id": "ITEM-108",
+   "name": "Carton box — Megacalciferol 300000 I.U",
+   "item_type": "Packaging",
+   "uom": "pcs",
+   "std_cost": 0.06,
+   "supplier_id": null,
+   "status": "Active",
+   "price_per_kg": 0.06,
+   "stock_kg": null
+  },
+  {
+   "id": "ITEM-109",
+   "name": "Carton box — Megantacid",
+   "item_type": "Packaging",
+   "uom": "pcs",
+   "std_cost": 0.06,
+   "supplier_id": null,
+   "status": "Active",
+   "price_per_kg": 0.06,
+   "stock_kg": null
+  },
+  {
+   "id": "ITEM-110",
+   "name": "Carton box — Omtenazox",
+   "item_type": "Packaging",
+   "uom": "pcs",
+   "std_cost": 0.06,
+   "supplier_id": null,
+   "status": "Active",
+   "price_per_kg": 0.06,
+   "stock_kg": null
+  },
+  {
+   "id": "ITEM-111",
+   "name": "Carton box — Osmotalex",
+   "item_type": "Packaging",
+   "uom": "pcs",
+   "std_cost": 0.06,
+   "supplier_id": null,
+   "status": "Active",
+   "price_per_kg": 0.06,
+   "stock_kg": null
+  },
+  {
+   "id": "ITEM-112",
+   "name": "Carton box — Salicamenthol",
+   "item_type": "Packaging",
+   "uom": "pcs",
+   "std_cost": 0.06,
+   "supplier_id": null,
+   "status": "Active",
+   "price_per_kg": 0.06,
+   "stock_kg": null
+  },
+  {
+   "id": "ITEM-113",
+   "name": "Carton box — Thitaxaban 30 mg",
+   "item_type": "Packaging",
+   "uom": "pcs",
+   "std_cost": 0.06,
+   "supplier_id": null,
+   "status": "Active",
+   "price_per_kg": 0.06,
+   "stock_kg": null
+  },
+  {
+   "id": "ITEM-114",
+   "name": "Amber glass ampoule (Type I), 1 mL — Megacalciferol 300000 I.U",
+   "item_type": "Packaging",
+   "uom": "pcs",
+   "std_cost": 0.06,
+   "supplier_id": null,
+   "status": "Active",
+   "price_per_kg": 0.06,
+   "stock_kg": null
+  },
+  {
+   "id": "ITEM-115",
+   "name": "Nystatin (eq. to 200,000 IU / 45.455 mg)",
+   "item_type": "API",
+   "uom": "mg",
+   "std_cost": null,
+   "supplier_id": "SUP-014",
+   "status": "Active",
+   "price_per_kg": null,
+   "stock_kg": null
+  },
+  {
+   "id": "ITEM-116",
+   "name": "Nifuratel",
+   "item_type": "API",
+   "uom": "mg",
+   "std_cost": null,
+   "supplier_id": "SUP-015",
+   "status": "Active",
+   "price_per_kg": null,
+   "stock_kg": null
+  },
+  {
+   "id": "ITEM-117",
+   "name": "Silicon Oil (Dimethicone 1000)",
+   "item_type": "Excipient",
+   "uom": "mg",
+   "std_cost": null,
+   "supplier_id": null,
+   "status": "Active",
+   "price_per_kg": null,
+   "stock_kg": null
+  },
+  {
+   "id": "ITEM-118",
+   "name": "Gelatin (160 bloom) — plant origin",
+   "item_type": "Excipient",
+   "uom": "mg",
+   "std_cost": null,
+   "supplier_id": null,
+   "status": "Active",
+   "price_per_kg": null,
+   "stock_kg": null
+  },
+  {
+   "id": "ITEM-119",
+   "name": "Glycerin",
+   "item_type": "Excipient",
+   "uom": "mg",
+   "std_cost": null,
+   "supplier_id": null,
+   "status": "Active",
+   "price_per_kg": null,
+   "stock_kg": null
+  },
+  {
+   "id": "ITEM-120",
+   "name": "Sodium Methyl para hydroxy benzoate (E215)",
+   "item_type": "Excipient",
+   "uom": "mg",
+   "std_cost": null,
+   "supplier_id": null,
+   "status": "Active",
+   "price_per_kg": null,
+   "stock_kg": null
+  },
+  {
+   "id": "ITEM-121",
+   "name": "Propyl para hydroxy benzoate base (E217)",
+   "item_type": "Excipient",
+   "uom": "mg",
+   "std_cost": null,
+   "supplier_id": null,
+   "status": "Active",
+   "price_per_kg": null,
+   "stock_kg": null
+  },
+  {
+   "id": "ITEM-122",
+   "name": "Iron Oxide Yellow (C.I. No. 77492)",
+   "item_type": "Excipient",
+   "uom": "mg",
+   "std_cost": null,
+   "supplier_id": null,
+   "status": "Active",
+   "price_per_kg": null,
+   "stock_kg": null
+  }
+ ],
+ "products": [
+  {
+   "id": "PROD-001",
+   "trade_name": "Calmiperastine 4.4 mg",
+   "dosage_form": "Chewable Tablets",
+   "active_ingredients": "Clopirastine Fendizoate 4.4mg",
+   "factory_id": "FAC-004",
+   "std_cost": 0.1425,
+   "selling_price_unit": 0.8,
+   "min_batch": null,
+   "forecast": null,
+   "reg_no": "37040/2023",
+   "reg_expiry": "2033-12-07",
+   "status": "Active"
+  },
+  {
+   "id": "PROD-002",
+   "trade_name": "Marboxavir 20 mg",
+   "dosage_form": "Film Coated Tablets",
+   "active_ingredients": "Baloxavir Marboxil 20mg",
+   "factory_id": "FAC-001",
+   "std_cost": 0.26449000000000006,
+   "selling_price_unit": 94.5,
+   "min_batch": null,
+   "forecast": null,
+   "reg_no": "37850/2025",
+   "reg_expiry": "2035-03-20",
+   "status": "Active"
+  },
+  {
+   "id": "PROD-003",
+   "trade_name": "Megacalciferol 100000 I.U",
+   "dosage_form": "Solution for I.M. Injection",
+   "active_ingredients": "Cholecalciferol crystalline 40 MIU/g 2.5mg",
+   "factory_id": "FAC-004",
+   "std_cost": 0.03586400000000001,
+   "selling_price_unit": 12.0,
+   "min_batch": null,
+   "forecast": null,
+   "reg_no": "38263/2025",
+   "reg_expiry": "2035-10-30",
+   "status": "Active"
+  },
+  {
+   "id": "PROD-004",
+   "trade_name": "Loryzalia 240/10 mg",
+   "dosage_form": "Prolonged Release Tablets",
+   "active_ingredients": "Pseudoephedrine Sulphate 240mg + Loratadine 10mg",
+   "factory_id": "FAC-003",
+   "std_cost": 2.901506000000001,
+   "selling_price_unit": 2.2,
+   "min_batch": null,
+   "forecast": null,
+   "reg_no": "38356/2025",
+   "reg_expiry": "2035-12-11",
+   "status": "Active"
+  },
+  {
+   "id": "PROD-005",
+   "trade_name": "Megacalciferol 300000 I.U",
+   "dosage_form": "Solution for I.M. Injection",
+   "active_ingredients": "Cholecalciferol crystalline 40 MIU/g 7.5mg",
+   "factory_id": "FAC-004",
+   "std_cost": 0.1077,
+   "selling_price_unit": 15.0,
+   "min_batch": null,
+   "forecast": null,
+   "reg_no": "38264/2025",
+   "reg_expiry": "2035-10-30",
+   "status": "Active"
+  },
+  {
+   "id": "PROD-006",
+   "trade_name": "Megantacid",
+   "dosage_form": "Chewable Tablets",
+   "active_ingredients": "Dried Aluminium Hydroxide gel 200mg + Magnesium Hydroxide 200mg + Simethicone for DC 40.32mg",
+   "factory_id": "FAC-001",
+   "std_cost": 5.202358,
+   "selling_price_unit": 0.6666666666666666,
+   "min_batch": null,
+   "forecast": null,
+   "reg_no": "38170/2025",
+   "reg_expiry": "2035-09-18",
+   "status": "Active"
+  },
+  {
+   "id": "PROD-007",
+   "trade_name": "Omtenazox",
+   "dosage_form": "Topical Cream",
+   "active_ingredients": "Omoconazole Nitrate 0.01g",
+   "factory_id": "FAC-002",
+   "std_cost": 0.0003394,
+   "selling_price_unit": 37.5,
+   "min_batch": null,
+   "forecast": null,
+   "reg_no": "37245/2024",
+   "reg_expiry": "2034-03-21",
+   "status": "Active"
+  },
+  {
+   "id": "PROD-008",
+   "trade_name": "Osmotalex",
+   "dosage_form": "Oral Suspension in Sachet",
+   "active_ingredients": "Aluminium Hydroxide 0.425g + Magnesium Hydroxide 0.45g + Monmectite 2.5g",
+   "factory_id": "FAC-001",
+   "std_cost": 0.03350994000000001,
+   "selling_price_unit": 20.0,
+   "min_batch": null,
+   "forecast": null,
+   "reg_no": "37892/2025",
+   "reg_expiry": "2035-04-17",
+   "status": "Active"
+  },
+  {
+   "id": "PROD-009",
+   "trade_name": "Salicamenthol",
+   "dosage_form": "Topical Spray",
+   "active_ingredients": "Camphor 10mg + Menthol 25mg + Diethylamine Salicylate 100mg",
+   "factory_id": "FAC-005",
+   "std_cost": 1.68429,
+   "selling_price_unit": 45.0,
+   "min_batch": null,
+   "forecast": null,
+   "reg_no": "37794/2025",
+   "reg_expiry": "2035-02-27",
+   "status": "Active"
+  },
+  {
+   "id": "PROD-010",
+   "trade_name": "Thitaxaban 30 mg",
+   "dosage_form": "Film Coated Tablets",
+   "active_ingredients": "Edoxaban Tosylate Monohydrate 40.41mg",
+   "factory_id": "FAC-004",
+   "std_cost": 0.415118,
+   "selling_price_unit": 147.5,
+   "min_batch": null,
+   "forecast": null,
+   "reg_no": "37076/2023",
+   "reg_expiry": "2033-12-24",
+   "status": "Active"
+  },
+  {
+   "id": "PROD-011",
+   "trade_name": "Geneprazo 40mg",
+   "dosage_form": "Capsules",
+   "active_ingredients": "Omeprazole 40mg",
+   "factory_id": null,
+   "std_cost": 0.0,
+   "selling_price_unit": null,
+   "min_batch": null,
+   "forecast": null,
+   "reg_no": null,
+   "reg_expiry": null,
+   "status": "In development"
+  },
+  {
+   "id": "PROD-012",
+   "trade_name": "Furaginal Vaginal Ovules",
+   "dosage_form": "Vaginal Ovules",
+   "active_ingredients": "Nifuratel 500mg + Nystatin 200,000 IU",
+   "factory_id": "FAC-006",
+   "std_cost": 0.33744,
+   "selling_price_unit": 7.5,
+   "min_batch": null,
+   "forecast": null,
+   "reg_no": "38781/2026",
+   "reg_expiry": "2036-07-30",
+   "status": "Active"
+  }
+ ],
+ "bom_lines": [
+  {
+   "id": "BOM-0001",
+   "product_id": "PROD-001",
+   "item_id": "ITEM-001",
+   "item_type": "Active",
+   "qty_per_unit": 4.4e-06,
+   "uom": "mg"
+  },
+  {
+   "id": "BOM-0002",
+   "product_id": "PROD-001",
+   "item_id": "ITEM-002",
+   "item_type": "Inactive",
+   "qty_per_unit": 0.0001074,
+   "uom": "mg"
+  },
+  {
+   "id": "BOM-0003",
+   "product_id": "PROD-001",
+   "item_id": "ITEM-003",
+   "item_type": "Inactive",
+   "qty_per_unit": 3.9999999999999996e-05,
+   "uom": "mg"
+  },
+  {
+   "id": "BOM-0004",
+   "product_id": "PROD-001",
+   "item_id": "ITEM-004",
+   "item_type": "Inactive",
+   "qty_per_unit": 2.9999999999999997e-05,
+   "uom": "mg"
+  },
+  {
+   "id": "BOM-0005",
+   "product_id": "PROD-001",
+   "item_id": "ITEM-005",
+   "item_type": "Inactive",
+   "qty_per_unit": 6e-06,
+   "uom": "mg"
+  },
+  {
+   "id": "BOM-0006",
+   "product_id": "PROD-001",
+   "item_id": "ITEM-006",
+   "item_type": "Inactive",
+   "qty_per_unit": 9.999999999999999e-06,
+   "uom": "mg"
+  },
+  {
+   "id": "BOM-0007",
+   "product_id": "PROD-001",
+   "item_id": "ITEM-007",
+   "item_type": "Inactive",
+   "qty_per_unit": 1e-06,
+   "uom": "mg"
+  },
+  {
+   "id": "BOM-0008",
+   "product_id": "PROD-001",
+   "item_id": "ITEM-008",
+   "item_type": "Inactive",
+   "qty_per_unit": 4e-07,
+   "uom": "mg"
+  },
+  {
+   "id": "BOM-0009",
+   "product_id": "PROD-001",
+   "item_id": "ITEM-009",
+   "item_type": "Inactive",
+   "qty_per_unit": 8e-07,
+   "uom": "mg"
+  },
+  {
+   "id": "BOM-0010",
+   "product_id": "PROD-001",
+   "item_id": "ITEM-010",
+   "item_type": "Packaging",
+   "qty_per_unit": null,
+   "uom": "pcs"
+  },
+  {
+   "id": "BOM-0011",
+   "product_id": "PROD-001",
+   "item_id": "ITEM-011",
+   "item_type": "Packaging",
+   "qty_per_unit": null,
+   "uom": "pcs"
+  },
+  {
+   "id": "BOM-0012",
+   "product_id": "PROD-001",
+   "item_id": "ITEM-012",
+   "item_type": "Packaging",
+   "qty_per_unit": null,
+   "uom": "pcs"
+  },
+  {
+   "id": "BOM-0013",
+   "product_id": "PROD-001",
+   "item_id": "ITEM-013",
+   "item_type": "Packaging",
+   "qty_per_unit": null,
+   "uom": "pcs"
+  },
+  {
+   "id": "BOM-0014",
+   "product_id": "PROD-002",
+   "item_id": "ITEM-014",
+   "item_type": "Active",
+   "qty_per_unit": 1.9999999999999998e-05,
+   "uom": "mg"
+  },
+  {
+   "id": "BOM-0015",
+   "product_id": "PROD-002",
+   "item_id": "ITEM-015",
+   "item_type": "Inactive",
+   "qty_per_unit": 7.65e-05,
+   "uom": "mg"
+  },
+  {
+   "id": "BOM-0016",
+   "product_id": "PROD-002",
+   "item_id": "ITEM-016",
+   "item_type": "Inactive",
+   "qty_per_unit": 1.4999999999999999e-05,
+   "uom": "mg"
+  },
+  {
+   "id": "BOM-0017",
+   "product_id": "PROD-002",
+   "item_id": "ITEM-017",
+   "item_type": "Inactive",
+   "qty_per_unit": 2e-06,
+   "uom": "mg"
+  },
+  {
+   "id": "BOM-0018",
+   "product_id": "PROD-002",
+   "item_id": "ITEM-018",
+   "item_type": "Inactive",
+   "qty_per_unit": 9.999999999999999e-06,
+   "uom": "mg"
+  },
+  {
+   "id": "BOM-0019",
+   "product_id": "PROD-002",
+   "item_id": "ITEM-019",
+   "item_type": "Inactive",
+   "qty_per_unit": 1.5e-06,
+   "uom": "mg"
+  },
+  {
+   "id": "BOM-0020",
+   "product_id": "PROD-002",
+   "item_id": "ITEM-020",
+   "item_type": "Inactive",
+   "qty_per_unit": null,
+   "uom": "mg"
+  },
+  {
+   "id": "BOM-0021",
+   "product_id": "PROD-002",
+   "item_id": "ITEM-021",
+   "item_type": "Inactive",
+   "qty_per_unit": null,
+   "uom": "mg"
+  },
+  {
+   "id": "BOM-0022",
+   "product_id": "PROD-002",
+   "item_id": "ITEM-005",
+   "item_type": "Inactive",
+   "qty_per_unit": 1.6499999999999999e-06,
+   "uom": "mg"
+  },
+  {
+   "id": "BOM-0023",
+   "product_id": "PROD-002",
+   "item_id": "ITEM-022",
+   "item_type": "Inactive",
+   "qty_per_unit": 8e-07,
+   "uom": "mg"
+  },
+  {
+   "id": "BOM-0024",
+   "product_id": "PROD-002",
+   "item_id": "ITEM-023",
+   "item_type": "Inactive",
+   "qty_per_unit": 5.5e-07,
+   "uom": "mg"
+  },
+  {
+   "id": "BOM-0025",
+   "product_id": "PROD-002",
+   "item_id": "ITEM-020",
+   "item_type": "Inactive",
+   "qty_per_unit": null,
+   "uom": "mg"
+  },
+  {
+   "id": "BOM-0026",
+   "product_id": "PROD-002",
+   "item_id": "ITEM-021",
+   "item_type": "Inactive",
+   "qty_per_unit": null,
+   "uom": "mg"
+  },
+  {
+   "id": "BOM-0027",
+   "product_id": "PROD-002",
+   "item_id": "ITEM-088",
+   "item_type": "Packaging",
+   "qty_per_unit": null,
+   "uom": "pcs"
+  },
+  {
+   "id": "BOM-0028",
+   "product_id": "PROD-002",
+   "item_id": "ITEM-092",
+   "item_type": "Packaging",
+   "qty_per_unit": null,
+   "uom": "pcs"
+  },
+  {
+   "id": "BOM-0029",
+   "product_id": "PROD-002",
+   "item_id": "ITEM-096",
+   "item_type": "Packaging",
+   "qty_per_unit": null,
+   "uom": "pcs"
+  },
+  {
+   "id": "BOM-0030",
+   "product_id": "PROD-002",
+   "item_id": "ITEM-105",
+   "item_type": "Packaging",
+   "qty_per_unit": null,
+   "uom": "pcs"
+  },
+  {
+   "id": "BOM-0031",
+   "product_id": "PROD-003",
+   "item_id": "ITEM-024",
+   "item_type": "Active",
+   "qty_per_unit": 2.4999999999999998e-06,
+   "uom": "mg"
+  },
+  {
+   "id": "BOM-0032",
+   "product_id": "PROD-003",
+   "item_id": "ITEM-025",
+   "item_type": "Inactive",
+   "qty_per_unit": 1.6e-07,
+   "uom": "mg"
+  },
+  {
+   "id": "BOM-0033",
+   "product_id": "PROD-003",
+   "item_id": "ITEM-026",
+   "item_type": "Inactive",
+   "qty_per_unit": 1.6e-06,
+   "uom": "mg"
+  },
+  {
+   "id": "BOM-0034",
+   "product_id": "PROD-003",
+   "item_id": "ITEM-027",
+   "item_type": "Inactive",
+   "qty_per_unit": null,
+   "uom": "mg"
+  },
+  {
+   "id": "BOM-0035",
+   "product_id": "PROD-003",
+   "item_id": "ITEM-028",
+   "item_type": "Inactive",
+   "qty_per_unit": null,
+   "uom": "mg"
+  },
+  {
+   "id": "BOM-0036",
+   "product_id": "PROD-003",
+   "item_id": "ITEM-029",
+   "item_type": "Packaging",
+   "qty_per_unit": null,
+   "uom": "pcs"
+  },
+  {
+   "id": "BOM-0037",
+   "product_id": "PROD-003",
+   "item_id": "ITEM-097",
+   "item_type": "Packaging",
+   "qty_per_unit": null,
+   "uom": "pcs"
+  },
+  {
+   "id": "BOM-0038",
+   "product_id": "PROD-003",
+   "item_id": "ITEM-106",
+   "item_type": "Packaging",
+   "qty_per_unit": null,
+   "uom": "pcs"
+  },
+  {
+   "id": "BOM-0039",
+   "product_id": "PROD-004",
+   "item_id": "ITEM-030",
+   "item_type": "Active",
+   "qty_per_unit": 0.00023999999999999998,
+   "uom": "mg"
+  },
+  {
+   "id": "BOM-0040",
+   "product_id": "PROD-004",
+   "item_id": "ITEM-031",
+   "item_type": "Inactive",
+   "qty_per_unit": 7.999999999999999e-05,
+   "uom": "mg"
+  },
+  {
+   "id": "BOM-0041",
+   "product_id": "PROD-004",
+   "item_id": "ITEM-032",
+   "item_type": "Inactive",
+   "qty_per_unit": 0.00031999999999999997,
+   "uom": "mg"
+  },
+  {
+   "id": "BOM-0042",
+   "product_id": "PROD-004",
+   "item_id": "ITEM-033",
+   "item_type": "Inactive",
+   "qty_per_unit": 3.9999999999999996e-05,
+   "uom": "mg"
+  },
+  {
+   "id": "BOM-0043",
+   "product_id": "PROD-004",
+   "item_id": "ITEM-034",
+   "item_type": "Inactive",
+   "qty_per_unit": 8e-06,
+   "uom": "mg"
+  },
+  {
+   "id": "BOM-0044",
+   "product_id": "PROD-004",
+   "item_id": "ITEM-007",
+   "item_type": "Inactive",
+   "qty_per_unit": 4e-06,
+   "uom": "mg"
+  },
+  {
+   "id": "BOM-0045",
+   "product_id": "PROD-004",
+   "item_id": "ITEM-035",
+   "item_type": "Inactive",
+   "qty_per_unit": 0.000108,
+   "uom": "mg"
+  },
+  {
+   "id": "BOM-0046",
+   "product_id": "PROD-004",
+   "item_id": "ITEM-036",
+   "item_type": "Inactive",
+   "qty_per_unit": null,
+   "uom": "mg"
+  },
+  {
+   "id": "BOM-0047",
+   "product_id": "PROD-004",
+   "item_id": "ITEM-037",
+   "item_type": "Inactive",
+   "qty_per_unit": null,
+   "uom": "mg"
+  },
+  {
+   "id": "BOM-0048",
+   "product_id": "PROD-004",
+   "item_id": "ITEM-038",
+   "item_type": "Active",
+   "qty_per_unit": 9.999999999999999e-06,
+   "uom": "mg"
+  },
+  {
+   "id": "BOM-0049",
+   "product_id": "PROD-004",
+   "item_id": "ITEM-039",
+   "item_type": "Inactive",
+   "qty_per_unit": 3.7999999999999995e-05,
+   "uom": "mg"
+  },
+  {
+   "id": "BOM-0050",
+   "product_id": "PROD-004",
+   "item_id": "ITEM-040",
+   "item_type": "Inactive",
+   "qty_per_unit": 1.2630000000000001e-05,
+   "uom": "mg"
+  },
+  {
+   "id": "BOM-0051",
+   "product_id": "PROD-004",
+   "item_id": "ITEM-041",
+   "item_type": "Inactive",
+   "qty_per_unit": 4e-06,
+   "uom": "mg"
+  },
+  {
+   "id": "BOM-0052",
+   "product_id": "PROD-004",
+   "item_id": "ITEM-042",
+   "item_type": "Inactive",
+   "qty_per_unit": 2.67e-06,
+   "uom": "mg"
+  },
+  {
+   "id": "BOM-0053",
+   "product_id": "PROD-004",
+   "item_id": "ITEM-043",
+   "item_type": "Inactive",
+   "qty_per_unit": 1.1e-05,
+   "uom": "mg"
+  },
+  {
+   "id": "BOM-0054",
+   "product_id": "PROD-004",
+   "item_id": "ITEM-044",
+   "item_type": "Inactive",
+   "qty_per_unit": 1.5e-06,
+   "uom": "mg"
+  },
+  {
+   "id": "BOM-0055",
+   "product_id": "PROD-004",
+   "item_id": "ITEM-045",
+   "item_type": "Inactive",
+   "qty_per_unit": 2e-07,
+   "uom": "mg"
+  },
+  {
+   "id": "BOM-0056",
+   "product_id": "PROD-004",
+   "item_id": "ITEM-036",
+   "item_type": "Inactive",
+   "qty_per_unit": null,
+   "uom": "mg"
+  },
+  {
+   "id": "BOM-0057",
+   "product_id": "PROD-004",
+   "item_id": "ITEM-089",
+   "item_type": "Packaging",
+   "qty_per_unit": null,
+   "uom": "pcs"
+  },
+  {
+   "id": "BOM-0058",
+   "product_id": "PROD-004",
+   "item_id": "ITEM-093",
+   "item_type": "Packaging",
+   "qty_per_unit": null,
+   "uom": "pcs"
+  },
+  {
+   "id": "BOM-0059",
+   "product_id": "PROD-004",
+   "item_id": "ITEM-098",
+   "item_type": "Packaging",
+   "qty_per_unit": null,
+   "uom": "pcs"
+  },
+  {
+   "id": "BOM-0060",
+   "product_id": "PROD-004",
+   "item_id": "ITEM-107",
+   "item_type": "Packaging",
+   "qty_per_unit": null,
+   "uom": "pcs"
+  },
+  {
+   "id": "BOM-0061",
+   "product_id": "PROD-005",
+   "item_id": "ITEM-024",
+   "item_type": "Active",
+   "qty_per_unit": 7.499999999999999e-06,
+   "uom": "mg"
+  },
+  {
+   "id": "BOM-0062",
+   "product_id": "PROD-005",
+   "item_id": "ITEM-025",
+   "item_type": "Inactive",
+   "qty_per_unit": 5e-07,
+   "uom": "mg"
+  },
+  {
+   "id": "BOM-0063",
+   "product_id": "PROD-005",
+   "item_id": "ITEM-026",
+   "item_type": "Inactive",
+   "qty_per_unit": 4.9999999999999996e-06,
+   "uom": "mg"
+  },
+  {
+   "id": "BOM-0064",
+   "product_id": "PROD-005",
+   "item_id": "ITEM-027",
+   "item_type": "Inactive",
+   "qty_per_unit": null,
+   "uom": "mg"
+  },
+  {
+   "id": "BOM-0065",
+   "product_id": "PROD-005",
+   "item_id": "ITEM-028",
+   "item_type": "Inactive",
+   "qty_per_unit": null,
+   "uom": "mg"
+  },
+  {
+   "id": "BOM-0066",
+   "product_id": "PROD-005",
+   "item_id": "ITEM-114",
+   "item_type": "Packaging",
+   "qty_per_unit": null,
+   "uom": "pcs"
+  },
+  {
+   "id": "BOM-0067",
+   "product_id": "PROD-005",
+   "item_id": "ITEM-099",
+   "item_type": "Packaging",
+   "qty_per_unit": null,
+   "uom": "pcs"
+  },
+  {
+   "id": "BOM-0068",
+   "product_id": "PROD-005",
+   "item_id": "ITEM-108",
+   "item_type": "Packaging",
+   "qty_per_unit": null,
+   "uom": "pcs"
+  },
+  {
+   "id": "BOM-0069",
+   "product_id": "PROD-006",
+   "item_id": "ITEM-046",
+   "item_type": "Active",
+   "qty_per_unit": 0.00019999999999999998,
+   "uom": "mg"
+  },
+  {
+   "id": "BOM-0070",
+   "product_id": "PROD-006",
+   "item_id": "ITEM-047",
+   "item_type": "Active",
+   "qty_per_unit": 0.00019999999999999998,
+   "uom": "mg"
+  },
+  {
+   "id": "BOM-0071",
+   "product_id": "PROD-006",
+   "item_id": "ITEM-048",
+   "item_type": "Active",
+   "qty_per_unit": 4.032e-05,
+   "uom": "mg"
+  },
+  {
+   "id": "BOM-0072",
+   "product_id": "PROD-006",
+   "item_id": "ITEM-049",
+   "item_type": "Inactive",
+   "qty_per_unit": 0.00021768,
+   "uom": "mg"
+  },
+  {
+   "id": "BOM-0073",
+   "product_id": "PROD-006",
+   "item_id": "ITEM-050",
+   "item_type": "Inactive",
+   "qty_per_unit": 0.00011355,
+   "uom": "mg"
+  },
+  {
+   "id": "BOM-0074",
+   "product_id": "PROD-006",
+   "item_id": "ITEM-051",
+   "item_type": "Inactive",
+   "qty_per_unit": 0.00011999999999999999,
+   "uom": "mg"
+  },
+  {
+   "id": "BOM-0075",
+   "product_id": "PROD-006",
+   "item_id": "ITEM-008",
+   "item_type": "Inactive",
+   "qty_per_unit": 1.11e-06,
+   "uom": "mg"
+  },
+  {
+   "id": "BOM-0076",
+   "product_id": "PROD-006",
+   "item_id": "ITEM-052",
+   "item_type": "Inactive",
+   "qty_per_unit": 1.85e-05,
+   "uom": "mg"
+  },
+  {
+   "id": "BOM-0077",
+   "product_id": "PROD-006",
+   "item_id": "ITEM-007",
+   "item_type": "Inactive",
+   "qty_per_unit": 1.384e-05,
+   "uom": "mg"
+  },
+  {
+   "id": "BOM-0078",
+   "product_id": "PROD-006",
+   "item_id": "ITEM-036",
+   "item_type": "Inactive",
+   "qty_per_unit": null,
+   "uom": "mg"
+  },
+  {
+   "id": "BOM-0079",
+   "product_id": "PROD-006",
+   "item_id": "ITEM-090",
+   "item_type": "Packaging",
+   "qty_per_unit": null,
+   "uom": "pcs"
+  },
+  {
+   "id": "BOM-0080",
+   "product_id": "PROD-006",
+   "item_id": "ITEM-094",
+   "item_type": "Packaging",
+   "qty_per_unit": null,
+   "uom": "pcs"
+  },
+  {
+   "id": "BOM-0081",
+   "product_id": "PROD-006",
+   "item_id": "ITEM-100",
+   "item_type": "Packaging",
+   "qty_per_unit": null,
+   "uom": "pcs"
+  },
+  {
+   "id": "BOM-0082",
+   "product_id": "PROD-006",
+   "item_id": "ITEM-109",
+   "item_type": "Packaging",
+   "qty_per_unit": null,
+   "uom": "pcs"
+  },
+  {
+   "id": "BOM-0083",
+   "product_id": "PROD-007",
+   "item_id": "ITEM-053",
+   "item_type": "Active",
+   "qty_per_unit": 1e-05,
+   "uom": "g"
+  },
+  {
+   "id": "BOM-0084",
+   "product_id": "PROD-007",
+   "item_id": "ITEM-054",
+   "item_type": "Inactive",
+   "qty_per_unit": 5e-05,
+   "uom": "g"
+  },
+  {
+   "id": "BOM-0085",
+   "product_id": "PROD-007",
+   "item_id": "ITEM-055",
+   "item_type": "Inactive",
+   "qty_per_unit": 8e-05,
+   "uom": "g"
+  },
+  {
+   "id": "BOM-0086",
+   "product_id": "PROD-007",
+   "item_id": "ITEM-056",
+   "item_type": "Inactive",
+   "qty_per_unit": 8e-05,
+   "uom": "g"
+  },
+  {
+   "id": "BOM-0087",
+   "product_id": "PROD-007",
+   "item_id": "ITEM-057",
+   "item_type": "Inactive",
+   "qty_per_unit": 2e-06,
+   "uom": "g"
+  },
+  {
+   "id": "BOM-0088",
+   "product_id": "PROD-007",
+   "item_id": "ITEM-058",
+   "item_type": "Inactive",
+   "qty_per_unit": 4e-05,
+   "uom": "g"
+  },
+  {
+   "id": "BOM-0089",
+   "product_id": "PROD-007",
+   "item_id": "ITEM-059",
+   "item_type": "Inactive",
+   "qty_per_unit": 1e-05,
+   "uom": "g"
+  },
+  {
+   "id": "BOM-0090",
+   "product_id": "PROD-007",
+   "item_id": "ITEM-060",
+   "item_type": "Inactive",
+   "qty_per_unit": 0.000148,
+   "uom": "g"
+  },
+  {
+   "id": "BOM-0091",
+   "product_id": "PROD-007",
+   "item_id": "ITEM-061",
+   "item_type": "Inactive",
+   "qty_per_unit": null,
+   "uom": "g"
+  },
+  {
+   "id": "BOM-0092",
+   "product_id": "PROD-007",
+   "item_id": "ITEM-062",
+   "item_type": "Packaging",
+   "qty_per_unit": null,
+   "uom": "pcs"
+  },
+  {
+   "id": "BOM-0093",
+   "product_id": "PROD-007",
+   "item_id": "ITEM-101",
+   "item_type": "Packaging",
+   "qty_per_unit": null,
+   "uom": "pcs"
+  },
+  {
+   "id": "BOM-0094",
+   "product_id": "PROD-007",
+   "item_id": "ITEM-110",
+   "item_type": "Packaging",
+   "qty_per_unit": null,
+   "uom": "pcs"
+  },
+  {
+   "id": "BOM-0095",
+   "product_id": "PROD-008",
+   "item_id": "ITEM-063",
+   "item_type": "Active",
+   "qty_per_unit": 0.000425,
+   "uom": "g"
+  },
+  {
+   "id": "BOM-0096",
+   "product_id": "PROD-008",
+   "item_id": "ITEM-064",
+   "item_type": "Active",
+   "qty_per_unit": 0.00045000000000000004,
+   "uom": "g"
+  },
+  {
+   "id": "BOM-0097",
+   "product_id": "PROD-008",
+   "item_id": "ITEM-065",
+   "item_type": "Active",
+   "qty_per_unit": 0.0025,
+   "uom": "g"
+  },
+  {
+   "id": "BOM-0098",
+   "product_id": "PROD-008",
+   "item_id": "ITEM-040",
+   "item_type": "Inactive",
+   "qty_per_unit": 0.0025,
+   "uom": "g"
+  },
+  {
+   "id": "BOM-0099",
+   "product_id": "PROD-008",
+   "item_id": "ITEM-066",
+   "item_type": "Inactive",
+   "qty_per_unit": 0.0005,
+   "uom": "g"
+  },
+  {
+   "id": "BOM-0100",
+   "product_id": "PROD-008",
+   "item_id": "ITEM-067",
+   "item_type": "Inactive",
+   "qty_per_unit": 1.9e-05,
+   "uom": "g"
+  },
+  {
+   "id": "BOM-0101",
+   "product_id": "PROD-008",
+   "item_id": "ITEM-068",
+   "item_type": "Inactive",
+   "qty_per_unit": 4.7e-06,
+   "uom": "g"
+  },
+  {
+   "id": "BOM-0102",
+   "product_id": "PROD-008",
+   "item_id": "ITEM-069",
+   "item_type": "Inactive",
+   "qty_per_unit": 0.00023,
+   "uom": "g"
+  },
+  {
+   "id": "BOM-0103",
+   "product_id": "PROD-008",
+   "item_id": "ITEM-070",
+   "item_type": "Inactive",
+   "qty_per_unit": 6.5e-06,
+   "uom": "g"
+  },
+  {
+   "id": "BOM-0104",
+   "product_id": "PROD-008",
+   "item_id": "ITEM-071",
+   "item_type": "Inactive",
+   "qty_per_unit": null,
+   "uom": "g"
+  },
+  {
+   "id": "BOM-0105",
+   "product_id": "PROD-008",
+   "item_id": "ITEM-072",
+   "item_type": "Packaging",
+   "qty_per_unit": null,
+   "uom": "pcs"
+  },
+  {
+   "id": "BOM-0106",
+   "product_id": "PROD-008",
+   "item_id": "ITEM-102",
+   "item_type": "Packaging",
+   "qty_per_unit": null,
+   "uom": "pcs"
+  },
+  {
+   "id": "BOM-0107",
+   "product_id": "PROD-008",
+   "item_id": "ITEM-111",
+   "item_type": "Packaging",
+   "qty_per_unit": null,
+   "uom": "pcs"
+  },
+  {
+   "id": "BOM-0108",
+   "product_id": "PROD-009",
+   "item_id": "ITEM-073",
+   "item_type": "Active",
+   "qty_per_unit": 9.999999999999999e-06,
+   "uom": "mg"
+  },
+  {
+   "id": "BOM-0109",
+   "product_id": "PROD-009",
+   "item_id": "ITEM-074",
+   "item_type": "Active",
+   "qty_per_unit": 2.4999999999999998e-05,
+   "uom": "mg"
+  },
+  {
+   "id": "BOM-0110",
+   "product_id": "PROD-009",
+   "item_id": "ITEM-075",
+   "item_type": "Active",
+   "qty_per_unit": 9.999999999999999e-05,
+   "uom": "mg"
+  },
+  {
+   "id": "BOM-0111",
+   "product_id": "PROD-009",
+   "item_id": "ITEM-076",
+   "item_type": "Inactive",
+   "qty_per_unit": 0.000137,
+   "uom": "mg"
+  },
+  {
+   "id": "BOM-0112",
+   "product_id": "PROD-009",
+   "item_id": "ITEM-077",
+   "item_type": "Inactive",
+   "qty_per_unit": 0.00014209999999999998,
+   "uom": "mg"
+  },
+  {
+   "id": "BOM-0113",
+   "product_id": "PROD-009",
+   "item_id": "ITEM-078",
+   "item_type": "Inactive",
+   "qty_per_unit": 3.1e-06,
+   "uom": "mg"
+  },
+  {
+   "id": "BOM-0114",
+   "product_id": "PROD-009",
+   "item_id": "ITEM-079",
+   "item_type": "Inactive",
+   "qty_per_unit": null,
+   "uom": "mg"
+  },
+  {
+   "id": "BOM-0115",
+   "product_id": "PROD-009",
+   "item_id": "ITEM-080",
+   "item_type": "Packaging",
+   "qty_per_unit": null,
+   "uom": "pcs"
+  },
+  {
+   "id": "BOM-0116",
+   "product_id": "PROD-009",
+   "item_id": "ITEM-103",
+   "item_type": "Packaging",
+   "qty_per_unit": null,
+   "uom": "pcs"
+  },
+  {
+   "id": "BOM-0117",
+   "product_id": "PROD-009",
+   "item_id": "ITEM-112",
+   "item_type": "Packaging",
+   "qty_per_unit": null,
+   "uom": "pcs"
+  },
+  {
+   "id": "BOM-0118",
+   "product_id": "PROD-010",
+   "item_id": "ITEM-081",
+   "item_type": "Active",
+   "qty_per_unit": 4.0409999999999994e-05,
+   "uom": "mg"
+  },
+  {
+   "id": "BOM-0119",
+   "product_id": "PROD-010",
+   "item_id": "ITEM-082",
+   "item_type": "Inactive",
+   "qty_per_unit": 1.6e-05,
+   "uom": "mg"
+  },
+  {
+   "id": "BOM-0120",
+   "product_id": "PROD-010",
+   "item_id": "ITEM-083",
+   "item_type": "Inactive",
+   "qty_per_unit": 0.00010939,
+   "uom": "mg"
+  },
+  {
+   "id": "BOM-0121",
+   "product_id": "PROD-010",
+   "item_id": "ITEM-084",
+   "item_type": "Inactive",
+   "qty_per_unit": 2e-06,
+   "uom": "mg"
+  },
+  {
+   "id": "BOM-0122",
+   "product_id": "PROD-010",
+   "item_id": "ITEM-085",
+   "item_type": "Inactive",
+   "qty_per_unit": 2.9999999999999997e-05,
+   "uom": "mg"
+  },
+  {
+   "id": "BOM-0123",
+   "product_id": "PROD-010",
+   "item_id": "ITEM-052",
+   "item_type": "Inactive",
+   "qty_per_unit": 1e-06,
+   "uom": "mg"
+  },
+  {
+   "id": "BOM-0124",
+   "product_id": "PROD-010",
+   "item_id": "ITEM-007",
+   "item_type": "Inactive",
+   "qty_per_unit": 1.2e-06,
+   "uom": "mg"
+  },
+  {
+   "id": "BOM-0125",
+   "product_id": "PROD-010",
+   "item_id": "ITEM-036",
+   "item_type": "Inactive",
+   "qty_per_unit": null,
+   "uom": "mg"
+  },
+  {
+   "id": "BOM-0126",
+   "product_id": "PROD-010",
+   "item_id": "ITEM-039",
+   "item_type": "Inactive",
+   "qty_per_unit": 3.68e-06,
+   "uom": "mg"
+  },
+  {
+   "id": "BOM-0127",
+   "product_id": "PROD-010",
+   "item_id": "ITEM-086",
+   "item_type": "Inactive",
+   "qty_per_unit": 4.8e-07,
+   "uom": "mg"
+  },
+  {
+   "id": "BOM-0128",
+   "product_id": "PROD-010",
+   "item_id": "ITEM-041",
+   "item_type": "Inactive",
+   "qty_per_unit": 8.399999999999999e-07,
+   "uom": "mg"
+  },
+  {
+   "id": "BOM-0129",
+   "product_id": "PROD-010",
+   "item_id": "ITEM-043",
+   "item_type": "Inactive",
+   "qty_per_unit": 8.399999999999999e-07,
+   "uom": "mg"
+  },
+  {
+   "id": "BOM-0130",
+   "product_id": "PROD-010",
+   "item_id": "ITEM-087",
+   "item_type": "Inactive",
+   "qty_per_unit": 1.6e-07,
+   "uom": "mg"
+  },
+  {
+   "id": "BOM-0131",
+   "product_id": "PROD-010",
+   "item_id": "ITEM-036",
+   "item_type": "Inactive",
+   "qty_per_unit": null,
+   "uom": "mg"
+  },
+  {
+   "id": "BOM-0132",
+   "product_id": "PROD-010",
+   "item_id": "ITEM-076",
+   "item_type": "Inactive",
+   "qty_per_unit": null,
+   "uom": "mg"
+  },
+  {
+   "id": "BOM-0133",
+   "product_id": "PROD-010",
+   "item_id": "ITEM-091",
+   "item_type": "Packaging",
+   "qty_per_unit": null,
+   "uom": "pcs"
+  },
+  {
+   "id": "BOM-0134",
+   "product_id": "PROD-010",
+   "item_id": "ITEM-095",
+   "item_type": "Packaging",
+   "qty_per_unit": null,
+   "uom": "pcs"
+  },
+  {
+   "id": "BOM-0135",
+   "product_id": "PROD-010",
+   "item_id": "ITEM-104",
+   "item_type": "Packaging",
+   "qty_per_unit": null,
+   "uom": "pcs"
+  },
+  {
+   "id": "BOM-0136",
+   "product_id": "PROD-010",
+   "item_id": "ITEM-113",
+   "item_type": "Packaging",
+   "qty_per_unit": null,
+   "uom": "pcs"
+  },
+  {
+   "id": "BOM-0137",
+   "product_id": "PROD-012",
+   "item_id": "ITEM-115",
+   "item_type": "Active",
+   "qty_per_unit": 4.5455e-05,
+   "uom": "mg"
+  },
+  {
+   "id": "BOM-0138",
+   "product_id": "PROD-012",
+   "item_id": "ITEM-116",
+   "item_type": "Active",
+   "qty_per_unit": 0.0005,
+   "uom": "mg"
+  },
+  {
+   "id": "BOM-0139",
+   "product_id": "PROD-012",
+   "item_id": "ITEM-117",
+   "item_type": "Excipient",
+   "qty_per_unit": 0.001654545,
+   "uom": "mg"
+  },
+  {
+   "id": "BOM-0140",
+   "product_id": "PROD-012",
+   "item_id": "ITEM-118",
+   "item_type": "Excipient",
+   "qty_per_unit": 0.0005143,
+   "uom": "mg"
+  },
+  {
+   "id": "BOM-0141",
+   "product_id": "PROD-012",
+   "item_id": "ITEM-066",
+   "item_type": "Excipient",
+   "qty_per_unit": 8.57e-05,
+   "uom": "mg"
+  },
+  {
+   "id": "BOM-0142",
+   "product_id": "PROD-012",
+   "item_id": "ITEM-119",
+   "item_type": "Excipient",
+   "qty_per_unit": 0.0001714,
+   "uom": "mg"
+  },
+  {
+   "id": "BOM-0143",
+   "product_id": "PROD-012",
+   "item_id": "ITEM-120",
+   "item_type": "Excipient",
+   "qty_per_unit": 4.2999999999999995e-06,
+   "uom": "mg"
+  },
+  {
+   "id": "BOM-0144",
+   "product_id": "PROD-012",
+   "item_id": "ITEM-121",
+   "item_type": "Excipient",
+   "qty_per_unit": 4.2999999999999996e-07,
+   "uom": "mg"
+  },
+  {
+   "id": "BOM-0145",
+   "product_id": "PROD-012",
+   "item_id": "ITEM-022",
+   "item_type": "Excipient",
+   "qty_per_unit": 1.46e-06,
+   "uom": "mg"
+  },
+  {
+   "id": "BOM-0146",
+   "product_id": "PROD-012",
+   "item_id": "ITEM-122",
+   "item_type": "Excipient",
+   "qty_per_unit": 2.6e-06,
+   "uom": "mg"
+  },
+  {
+   "id": "BOM-0147",
+   "product_id": "PROD-012",
+   "item_id": "ITEM-036",
+   "item_type": "Excipient",
+   "qty_per_unit": 0.0004198,
+   "uom": "mg"
+  }
+ ],
+ "supplier_quotes": [
+  {
+   "id": "Q-0001",
+   "item_id": "ITEM-001",
+   "supplier_id": "SUP-009",
+   "price": 8000,
+   "lead_time_days": null,
+   "status": "Active"
+  },
+  {
+   "id": "Q-0002",
+   "item_id": "ITEM-014",
+   "supplier_id": "SUP-012",
+   "price": 10000,
+   "lead_time_days": null,
+   "status": "Active"
+  },
+  {
+   "id": "Q-0003",
+   "item_id": "ITEM-024",
+   "supplier_id": "SUP-011",
+   "price": 14000,
+   "lead_time_days": null,
+   "status": "Active"
+  },
+  {
+   "id": "Q-0004",
+   "item_id": "ITEM-030",
+   "supplier_id": "SUP-006",
+   "price": 10000,
+   "lead_time_days": null,
+   "status": "Active"
+  },
+  {
+   "id": "Q-0005",
+   "item_id": "ITEM-038",
+   "supplier_id": "SUP-007",
+   "price": 10000,
+   "lead_time_days": null,
+   "status": "Active"
+  },
+  {
+   "id": "Q-0006",
+   "item_id": "ITEM-046",
+   "supplier_id": "SUP-005",
+   "price": 10000,
+   "lead_time_days": null,
+   "status": "Active"
+  },
+  {
+   "id": "Q-0007",
+   "item_id": "ITEM-047",
+   "supplier_id": "SUP-003",
+   "price": 12000,
+   "lead_time_days": null,
+   "status": "Active"
+  },
+  {
+   "id": "Q-0008",
+   "item_id": "ITEM-048",
+   "supplier_id": "SUP-005",
+   "price": 14000,
+   "lead_time_days": null,
+   "status": "Active"
+  },
+  {
+   "id": "Q-0009",
+   "item_id": "ITEM-053",
+   "supplier_id": "SUP-004",
+   "price": 8,
+   "lead_time_days": null,
+   "status": "Active"
+  },
+  {
+   "id": "Q-0010",
+   "item_id": "ITEM-063",
+   "supplier_id": "SUP-005",
+   "price": 12,
+   "lead_time_days": null,
+   "status": "Active"
+  },
+  {
+   "id": "Q-0011",
+   "item_id": "ITEM-064",
+   "supplier_id": "SUP-003",
+   "price": 14,
+   "lead_time_days": null,
+   "status": "Active"
+  },
+  {
+   "id": "Q-0012",
+   "item_id": "ITEM-065",
+   "supplier_id": "SUP-010",
+   "price": 8,
+   "lead_time_days": null,
+   "status": "Active"
+  },
+  {
+   "id": "Q-0013",
+   "item_id": "ITEM-073",
+   "supplier_id": "SUP-008",
+   "price": 8000,
+   "lead_time_days": null,
+   "status": "Active"
+  },
+  {
+   "id": "Q-0014",
+   "item_id": "ITEM-074",
+   "supplier_id": "SUP-001",
+   "price": 10000,
+   "lead_time_days": null,
+   "status": "Active"
+  },
+  {
+   "id": "Q-0015",
+   "item_id": "ITEM-075",
+   "supplier_id": "SUP-002",
+   "price": 12000,
+   "lead_time_days": null,
+   "status": "Active"
+  },
+  {
+   "id": "Q-0016",
+   "item_id": "ITEM-081",
+   "supplier_id": "SUP-013",
+   "price": 8000,
+   "lead_time_days": null,
+   "status": "Active"
+  }
+ ],
+ "manufacturing_orders": [
+  {
+   "id": "MO-2026-001",
+   "product_id": "PROD-001",
+   "factory_id": "FAC-004",
+   "batch_ref": "B-001",
+   "order_date": "2026-05-10",
+   "qty_ordered": 100000,
+   "qty_received": 100000,
+   "unit_price": 0.55,
+   "agreed_delivery": "2026-07-20",
+   "actual_delivery": "2026-07-18",
+   "planned_start": null,
+   "priority": null,
+   "status": "Completed",
+   "notes": null
+  },
+  {
+   "id": "MO-2026-002",
+   "product_id": "PROD-004",
+   "factory_id": "FAC-003",
+   "batch_ref": "B-002",
+   "order_date": "2026-06-01",
+   "qty_ordered": 50000,
+   "qty_received": 20000,
+   "unit_price": 1.4,
+   "agreed_delivery": "2026-07-25",
+   "actual_delivery": null,
+   "planned_start": null,
+   "priority": null,
+   "status": "Late",
+   "notes": null
+  },
+  {
+   "id": "MO-2026-003",
+   "product_id": "PROD-006",
+   "factory_id": "FAC-001",
+   "batch_ref": "B-003",
+   "order_date": "2026-09-15",
+   "qty_ordered": 200000,
+   "qty_received": 0,
+   "unit_price": 6.7631,
+   "agreed_delivery": "2026-12-10",
+   "actual_delivery": null,
+   "planned_start": null,
+   "priority": "High",
+   "status": "In production",
+   "notes": "demo (planned)"
+  },
+  {
+   "id": "MO-2026-004",
+   "product_id": "PROD-006",
+   "factory_id": "FAC-001",
+   "batch_ref": "B-004",
+   "order_date": "2026-10-05",
+   "qty_ordered": 300000,
+   "qty_received": 0,
+   "unit_price": 6.7631,
+   "agreed_delivery": "2027-01-10",
+   "actual_delivery": null,
+   "planned_start": null,
+   "priority": "Urgent",
+   "status": "Materials pending",
+   "notes": "demo (planned)"
+  },
+  {
+   "id": "MO-2026-005",
+   "product_id": "PROD-002",
+   "factory_id": "FAC-001",
+   "batch_ref": "B-005",
+   "order_date": "2026-10-20",
+   "qty_ordered": 60000,
+   "qty_received": 0,
+   "unit_price": 0.3438,
+   "agreed_delivery": "2027-01-25",
+   "actual_delivery": null,
+   "planned_start": null,
+   "priority": "Normal",
+   "status": "Not started",
+   "notes": "demo (planned)"
+  },
+  {
+   "id": "MO-2026-006",
+   "product_id": "PROD-007",
+   "factory_id": "FAC-002",
+   "batch_ref": "B-006",
+   "order_date": "2026-10-25",
+   "qty_ordered": 40000,
+   "qty_received": 0,
+   "unit_price": 0.0004,
+   "agreed_delivery": "2027-02-05",
+   "actual_delivery": null,
+   "planned_start": null,
+   "priority": "Normal",
+   "status": "Not started",
+   "notes": "demo (planned)"
+  },
+  {
+   "id": "MO-2026-007",
+   "product_id": "PROD-010",
+   "factory_id": "FAC-004",
+   "batch_ref": "B-007",
+   "order_date": "2026-09-25",
+   "qty_ordered": 150000,
+   "qty_received": 0,
+   "unit_price": 0.5397,
+   "agreed_delivery": "2026-12-18",
+   "actual_delivery": null,
+   "planned_start": null,
+   "priority": "High",
+   "status": "In production",
+   "notes": "demo (planned)"
+  },
+  {
+   "id": "MO-2026-008",
+   "product_id": "PROD-003",
+   "factory_id": "FAC-004",
+   "batch_ref": "B-008",
+   "order_date": "2026-11-01",
+   "qty_ordered": 80000,
+   "qty_received": 0,
+   "unit_price": 0.0466,
+   "agreed_delivery": "2027-02-20",
+   "actual_delivery": null,
+   "planned_start": null,
+   "priority": "Normal",
+   "status": "Not started",
+   "notes": "demo (planned)"
+  },
+  {
+   "id": "MO-2026-009",
+   "product_id": "PROD-008",
+   "factory_id": "FAC-001",
+   "batch_ref": "B-009",
+   "order_date": "2026-11-05",
+   "qty_ordered": 90000,
+   "qty_received": 0,
+   "unit_price": 0.0436,
+   "agreed_delivery": "2027-03-10",
+   "actual_delivery": null,
+   "planned_start": null,
+   "priority": "Low",
+   "status": "Not started",
+   "notes": "demo (planned)"
+  }
+ ],
+ "order_materials": [
+  {
+   "id": "OM-006",
+   "order_id": "MO-2026-002",
+   "item_id": "ITEM-030",
+   "qty_required": 50000,
+   "qty_available": 50000,
+   "required_date": null,
+   "expected_arrival": null,
+   "status": "Complete"
+  },
+  {
+   "id": "OM-007",
+   "order_id": "MO-2026-002",
+   "item_id": "ITEM-038",
+   "qty_required": 2000,
+   "qty_available": 500,
+   "required_date": null,
+   "expected_arrival": null,
+   "status": "Delayed"
+  },
+  {
+   "id": "OM-008",
+   "order_id": "MO-2026-002",
+   "item_id": null,
+   "qty_required": 5000,
+   "qty_available": 0,
+   "required_date": null,
+   "expected_arrival": null,
+   "status": "Waiting"
+  }
+ ],
+ "batches": [
+  {
+   "id": "BATCH-001",
+   "batch_no": "B-001",
+   "order_id": "MO-2026-001",
+   "product_id": "PROD-001",
+   "std_size": 100000,
+   "actual_output": 98000,
+   "qa_status": "Passed",
+   "release_status": "Released",
+   "release_date": "2026-07-16"
+  },
+  {
+   "id": "BATCH-002",
+   "batch_no": "B-002",
+   "order_id": "MO-2026-002",
+   "product_id": "PROD-004",
+   "std_size": 50000,
+   "actual_output": 20000,
+   "qa_status": "Under analysis",
+   "release_status": "Under analysis",
+   "release_date": null
+  }
+ ],
+ "risks": [
+  {
+   "id": "RISK-001",
+   "category": "Supply",
+   "factory_id": "FAC-001",
+   "product_id": "PROD-006",
+   "order_id": "MO-2026-004",
+   "description": "Magnesium Hydroxide shortage",
+   "impact": 4,
+   "probability": 4,
+   "capa": "Expedite from IL-Yang",
+   "owner": "Procurement",
+   "target_close": "2026-08-20",
+   "status": "Open"
+  },
+  {
+   "id": "RISK-002",
+   "category": "Delivery",
+   "factory_id": "FAC-003",
+   "product_id": "PROD-004",
+   "order_id": "MO-2026-002",
+   "description": "Partial delivery 20k of 50k",
+   "impact": 3,
+   "probability": 3,
+   "capa": "Chase HP Pharma",
+   "owner": "Supply Chain",
+   "target_close": "2026-08-15",
+   "status": "In progress"
+  },
+  {
+   "id": "RISK-003",
+   "category": "Quality",
+   "factory_id": "FAC-004",
+   "product_id": "PROD-010",
+   "order_id": "MO-2026-007",
+   "description": "Batch under extended analysis",
+   "impact": 2,
+   "probability": 3,
+   "capa": "Follow up with QC",
+   "owner": "Quality",
+   "target_close": "2026-08-10",
+   "status": "In progress"
+  },
+  {
+   "id": "RISK-004",
+   "category": "Regulatory",
+   "factory_id": "FAC-002",
+   "product_id": "PROD-007",
+   "order_id": null,
+   "description": "GMP renewal due",
+   "impact": 3,
+   "probability": 2,
+   "capa": "Prepare renewal dossier",
+   "owner": "Regulatory",
+   "target_close": "2026-09-01",
+   "status": "Open"
+  }
+ ],
+ "regulatory": [
+  {
+   "id": "REG-001",
+   "level": "Product",
+   "product_id": "PROD-001",
+   "factory_id": null,
+   "subject": "Calmiperastine 4.4 mg",
+   "authority": "EDA",
+   "requirement_type": "Registration",
+   "expiry_date": "2033-12-07",
+   "status": "Approved"
+  },
+  {
+   "id": "REG-002",
+   "level": "Factory",
+   "product_id": null,
+   "factory_id": "FAC-004",
+   "subject": "International Advanced Pharmaceutical Industries (INAD Pharma), Egypt",
+   "authority": "EDA",
+   "requirement_type": "GMP Certificate",
+   "expiry_date": "2027-02-01",
+   "status": "Approved"
+  },
+  {
+   "id": "REG-003",
+   "level": "Product",
+   "product_id": "PROD-004",
+   "factory_id": null,
+   "subject": "Loryzalia 240/10 mg",
+   "authority": "EDA",
+   "requirement_type": "Registration",
+   "expiry_date": "2035-12-11",
+   "status": "Approved"
+  },
+  {
+   "id": "REG-004",
+   "level": "Product",
+   "product_id": "PROD-012",
+   "factory_id": null,
+   "subject": "Furaginal Vaginal Ovules",
+   "authority": "EDA",
+   "requirement_type": "Final Registration License",
+   "expiry_date": "2036-07-30",
+   "status": "Valid"
+  }
+ ]
+}
