@@ -29,6 +29,9 @@ RLS is enabled: any *authenticated* user can read/write. Tighten the policies in
 ## Deploy on Vercel
 Push to GitHub → Import in Vercel (Vite is auto-detected; `vercel.json` adds the SPA rewrite) → add the two env vars → Deploy.
 
+### Publish from VS Code
+Open this project folder, then run **Terminal → Run Task → Publish to GitHub** and enter a commit message. The task stages and publishes project changes to the `main` branch. Review `git status` first, and never commit credentials or environment files. Use **Publish to GitHub (replace remote main)** only when you intentionally want to replace the remote branch history.
+
 ## Re-generate seed from a newer workbook
 ```bash
 pip install pandas openpyxl

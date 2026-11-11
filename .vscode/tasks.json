@@ -1,0 +1,31 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Publish to GitHub",
+      "type": "process",
+      "command": "node",
+      "args": ["scripts/publish.mjs", "${input:commitMessage}"],
+      "options": { "cwd": "${workspaceFolder}" },
+      "problemMatcher": [],
+      "presentation": { "reveal": "always", "panel": "dedicated" }
+    },
+    {
+      "label": "Publish to GitHub (replace remote main)",
+      "type": "process",
+      "command": "node",
+      "args": ["scripts/publish.mjs", "${input:commitMessage}", "--replace"],
+      "options": { "cwd": "${workspaceFolder}" },
+      "problemMatcher": [],
+      "presentation": { "reveal": "always", "panel": "dedicated" }
+    }
+  ],
+  "inputs": [
+    {
+      "id": "commitMessage",
+      "type": "promptString",
+      "description": "Commit message",
+      "default": "Update PharmaPlan"
+    }
+  ]
+}
